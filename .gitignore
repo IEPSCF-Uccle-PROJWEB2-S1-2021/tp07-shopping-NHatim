@@ -1,0 +1,24 @@
+### https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+# Local History for Visual Studio Code
+.history/
+
+### https://github.com/github/gitignore/blob/master/Node.gitignore
+# Logs
+npm-debug.log*
+# Dependency directories
+node_modules/
+# Optional npm cache directory
+.npm
+# Optional eslint cache
+.eslintcache
+# dotenv environment variables file
+.env
+.env.test
